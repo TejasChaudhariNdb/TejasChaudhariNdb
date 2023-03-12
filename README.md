@@ -7,11 +7,8 @@
 
 <p align="left"> <a href="https://twitter.com/tejas038" target="blank"><img src="https://img.shields.io/twitter/follow/tejas038?logo=twitter&style=for-the-badge" alt="tejas038" /></a> </p>
 
-- 🔭 I’m currently working on **NearDish**
+- 🔭 I’m currently working on **DeskNow GmbH**
 
-- 🌱 I’m currently learning **ReactJS , NodeJS**
-
-- 🤝 I’m looking for help with **ReactNative Background Process**
 
 - 👨‍💻 All of my projects are available at [tejaschaudhari.com](tejaschaudhari.com)
 
@@ -19,7 +16,7 @@
 
 - 📫 How to reach me **tejaschaudhari038@gmail.com**
 
-- 📄 Know about my experiences [tejaschaudhari.com/resume](tejaschaudhari.com/resume)
+- 📄 Know about my experiences [tejaschaudhari.com/](tejaschaudhari.com/)
 
 - ⚡ Fun fact **T Think I Am Funny**
 
