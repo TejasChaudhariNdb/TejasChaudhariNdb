@@ -10,7 +10,7 @@
 - 🔭 I’m currently working on **DeskNow GmbH**
 
 
-- 👨‍💻 All of my projects are available at [tejaschaudhari.com](tejaschaudhari.com)
+- 👨‍💻 All of my projects are available at [tejaschaudhari.com](https://www.tejaschaudhari.com/)
 
 - 💬 Ask me about **ReactJs , ReactNative , PHP**
 
