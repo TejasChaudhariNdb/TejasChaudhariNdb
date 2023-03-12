@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **tejaschaudhari038@gmail.com**
 
-- 📄 Know about my experiences [tejaschaudhari.com/](tejaschaudhari.com/)
+- 📄 Know about my experiences  [tejaschaudhari.com](https://www.tejaschaudhari.com/)
 
 - ⚡ Fun fact **T Think I Am Funny**
 
